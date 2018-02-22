@@ -13,6 +13,8 @@ Once a pitch is selected, blow into the circuit playground and hear your pitch!
 
 Each note corresponds to a different LED and LED colors represent flat, natural, and sharp notes as seen below:
 
+![pitchpipe](https://user-images.githubusercontent.com/19801817/36512846-649db0c6-173a-11e8-9864-ebcf6aa7dd21.png)
+
 *make sure to include libraries
 
 More updates to come!
