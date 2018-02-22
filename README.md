@@ -9,7 +9,7 @@ How to use:
 
 1. Make sure Circuit Playground is configured with CircuitPython -> (https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart)
 
-2. Upload code.py to Circuit Playground (also upload CircuitPlayground libraries found here: https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-libraries)
+2. Upload code.py to Circuit Playground (also upload CircuitPlayground libraries found here: (https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-libraries)
 
 3. Use the up and down buttons to move up and down pitches.
 
