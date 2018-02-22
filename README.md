@@ -3,7 +3,11 @@ A pitch pipe made with the Circuit Playground Express!
 
 This project uses Adafruit's Circuit Playground Express as a pitch pipe
 
-Many vocalists and choirs use chromatic pitch pipes, which are essentially chromatic harmonicas, to find their starting pitch.
+Many vocalists and choirs use chromatic pitch pipes, which are essentially chromatic harmonicas, to find their starting pitch. Find a typical pitch pipe below:
+
+![pitch pipe analog](https://user-images.githubusercontent.com/19801817/36513184-6a16db48-173c-11e8-9e2e-556ac0d35596.jpg)
+
+source: Kratt MK3 Master Key Chromatic Pitch Pipe
 
 How to use:
 
