@@ -1,7 +1,6 @@
 # copyright Isaac Wellish
 
 
-
 import audiobusio
 import board
 import array
@@ -129,7 +128,7 @@ while True:
 
 
 
-    pixels.fill((0,0,0))
+   
 
 
 
@@ -140,9 +139,11 @@ while True:
 
 
     if buttonU.value == True:  # button is pushed then 
+        pixels.fill((0,0,0))
         counter += 1
         time.sleep(0.2)
     elif buttonD.value == True:
+        pixels.fill((0,0,0))
         counter -= 1
         time.sleep(0.2)
 
@@ -207,7 +208,6 @@ while True:
         counter = 16;
 
 
-#when microphone receives loud sound aka blowing into the mic, sound the selected pitch
     if magnitude > 5000:
         print(FREQUENCY)
         length = SAMPLERATE // FREQUENCY
@@ -225,6 +225,9 @@ while True:
 
  
    
+
+
+
 
 
 
