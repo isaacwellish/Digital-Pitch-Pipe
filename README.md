@@ -1,4 +1,4 @@
-# Digital-Pitch-Pipe
+# Perfect-Pitch-Machine
 A pitch pipe made with the Circuit Playground Express!
 
 This project uses Adafruit's Circuit Playground Express as a pitch pipe
