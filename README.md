@@ -1,6 +1,8 @@
 # Perfect-Pitch-Machine
 A pitch pipe made with the Circuit Playground Express!
 
+Find a full write up for the project here: https://www.hackster.io/isaac-wellish/perfect-pitch-machine-c0d8da
+
 This project uses Adafruit's Circuit Playground Express as a pitch pipe
 
 Many vocalists and choirs use chromatic pitch pipes, which are essentially chromatic harmonicas, to find their starting pitch. Find a typical pitch pipe below:
