@@ -243,7 +243,7 @@ while True:
     elif counter > 16:  # if counter goes above 16 set back to 0
         counter = 0
     elif counter < 0:  # if counter goes below 0 set back to 16
-        counter = 16;
+        counter = 16
 
 
 
